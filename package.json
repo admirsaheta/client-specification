@@ -1,6 +1,6 @@
 {
-  "name": "@unleash/client-specification",
-  "version": "4.2.1",
+  "name": "@praella/client-specification",
+  "version": "1.0.1",
   "description": "A collection of test specifications to guide client implementations in various languages",
   "scripts": {
     "test": "node index",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Unleash/client-specification.git"
+    "url": "git+https://github.com/admirsaheta/client-specification.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Unleash/client-specification/issues"
+    "url": "https://github.com/admirsaheta/client-specification/issues"
   },
-  "homepage": "https://github.com/Unleash/client-specification#readme",
+  "homepage": "https://github.com/admirsaheta/client-specification#readme",
   "devDependencies": {
     "chalk": "4.1.2",
     "joi": "17.7.0",
